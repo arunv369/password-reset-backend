@@ -47,7 +47,7 @@ npm install
 MONGO_URI= mongodb+srv://arun:arun6362@cluster0.l4m6mrb.mongodb.net/
 EMAIL_USER=2001arunv@gmail.com
 EMAIL_PASS= nmuz iwkk xsjv hchl
-FRONTEND_URL=http://localhost:3000
+FRONTEND_URL=https://reset-password-b20.netlify.app/
 PORT = 5000
 
 ### 4. Start the backend server:
